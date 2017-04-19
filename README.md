@@ -1,4 +1,7 @@
-# test coverage for  [servicebus (v2.0.10)](https://github.com/mateodelnorte/servicebus)  [![npm package](https://img.shields.io/npm/v/npmtest-servicebus.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-servicebus) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-servicebus.svg)](https://travis-ci.org/npmtest/node-npmtest-servicebus)
+# npmtest-servicebus
+
+#### basic test coverage for  [servicebus (v2.0.10)](https://github.com/mateodelnorte/servicebus)  [![npm package](https://img.shields.io/npm/v/npmtest-servicebus.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-servicebus) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-servicebus.svg)](https://travis-ci.org/npmtest/node-npmtest-servicebus)
+
 #### Simple service bus for sending events between processes using amqp.
 
 [![NPM](https://nodei.co/npm/servicebus.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/servicebus)
